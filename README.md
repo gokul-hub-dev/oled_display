@@ -34,3 +34,11 @@ pi@raspberrypi:~/projects/oled_display/SSD1306_OLED_RPI-1.6.1/examples/bin $ sud
 OLED Test Begin
 SSD1306 library Version Number :: 161
 bcm2835 library Version Number :: 10071
+
+
+
+
+
+=======================================Test Before CPP development===================================
+use below link to test oled and i2c connection:-
+https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/
