@@ -7,10 +7,10 @@
 You go to a **vehicle factory** and say you want a "Bike" or "Car". You don’t care how it’s made, just that it returns the appropriate vehicle.
 
 ### oled_display
-**cd ~** 
 **wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.71.tar.gz** 
-tar zxvf bcm2835-1.71.tar.gz
-cd bcm2835-1.71
+
+**tar zxvf bcm2835-1.71.tar.gz** 
+**cd bcm2835-1.71** 
 ./configure
 make
 sudo make install
