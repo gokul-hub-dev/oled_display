@@ -1,11 +1,3 @@
-## 🧱 1. Creational Patterns
-
-### [1.1] Factory Design Pattern  
-**Purpose:** Creates objects without specifying the exact class/type.
-
-**Real-Life Analogy:**  
-You go to a **vehicle factory** and say you want a "Bike" or "Car". You don’t care how it’s made, just that it returns the appropriate vehicle.
-
 ### oled_display
 **wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.71.tar.gz** 
 
@@ -53,5 +45,5 @@ bcm2835 library Version Number :: 10071
 ---
 
 ## =======================================Test Before CPP development===================================
-use below link to test oled and i2c connection:-
-https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/
+**use below link to test oled and i2c connection:-** 
+**https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/** 
