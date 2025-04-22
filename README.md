@@ -44,6 +44,6 @@ bcm2835 library Version Number :: 10071
 
 ---
 
-## =======================================Test Before CPP development===================================
+## Test Before CPP development
 **use below link to test oled and i2c connection:-** 
 **https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/** 
