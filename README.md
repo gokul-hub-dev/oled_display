@@ -1,6 +1,5 @@
 ### oled_display
-**wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.71.tar.gz** 
-
+**wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.71.tar.gz**  
 **tar zxvf bcm2835-1.71.tar.gz** 
 **cd bcm2835-1.71** 
 **./configure** 
@@ -45,5 +44,5 @@ bcm2835 library Version Number :: 10071
 ---
 
 ## Test Before CPP development
-**use below link to test oled and i2c connection:-** 
+**use below link to test oled and i2c connection:-**  
 **https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/** 
